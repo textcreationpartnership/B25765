@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>At the dravving-school near the Hand and Pen in St. Paul's church-yard, is taught the art of drawing: on Tuesdays, Thursdays and Saturdays in the morning from eight to eleven; for five shillings entrance and five shillings a month. Also on Mondays, Wednesdays and Fridays in the evening from six to nine: at the said place on the same terms. Those that please may be taught at their respective habitations. By B. Lens, and J. Sturt.</title>
+            <author>Lens, Bernard, 1659-1725.</author>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B25765</idno><idno type="EEBO-CITATION">99886633</idno>
+  <idno type="VID">187567</idno>
+  <idno type="EEBO-PROQUEST">2248536508</idno>
+  
+            <idno type="STC">Wing L1055</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.23[3]</idno>
+            <idno type="STC">ESTC R226300</idno>
+            <idno type="PROQUEST">ocm99886633</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99886633e"/>
+            <note>(EEBO-TCP ; phase 2, no. B25765)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 187567)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C8:2[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>At the dravving-school near the Hand and Pen in St. Paul's church-yard, is taught the art of drawing: on Tuesdays, Thursdays and Saturdays in the morning from eight to eleven; for five shillings entrance and five shillings a month. Also on Mondays, Wednesdays and Fridays in the evening from six to nine: at the said place on the same terms. Those that please may be taught at their respective habitations. By B. Lens, and J. Sturt.</title>
+                  <author>Lens, Bernard, 1659-1725.</author>
+                  <author>Sturt, John, 1658-1730.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1697]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing CD-ROM, 1996.</note>
+                  <note>At end of text: This paper may be had at the school. 1697.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Drawing --  17th century --  Early works to 1800.</term>
+               <term type="topical_term">Education --  England --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  London --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:187567:1"/>
+            <head>AT THE DRAWING-SCHOOL NEAR THE <hi>Hand and Pen in St. Paul's Church-Yard,</hi> IS TAUGHT THE ART of DRAWING: On <hi>Tuesdays, Thursdays</hi> and <hi>Saturdays</hi> in the Morning from Eight to Eleven; <hi>For Five Shillings Entrance and Five Shillings a Month.</hi>
+            </head>
+            <head type="sub">Also on <hi>Mondays, Wednesdays</hi> and <hi>Fridays</hi> in the Evening from Six to Nine: <hi>At the said Place and on the same Terms.</hi> Those that Please may be Taught at their respective Habitations.</head>
+            <byline>By <hi>B. LENS,</hi> and <hi>J. STURT.</hi>
+            </byline>
+            <epigraph>
+               <q xml:lang="lat">
+                  <l>Segniùs irritant animos denissa per AURES,</l>
+                  <l>Quàm quae sunt OCULIS subjecta fidelibus.—</l>
+               </q>
+               <q>
+                  <l>The plainest Rules deliver'd to the <hi>EAR</hi>
+                  </l>
+                  <l>Upon the Mind no equal Force can bear</l>
+                  <l>With those that to the <hi>EYE</hi> subjected are.</l>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">G</seg>RAPHICE by <hi>Aristotle</hi> is generally taken for the Art of <hi>Drawing</hi> any thing whatsoever with the Pen or Pencil, and was reckon'd among the Chiefest of those his <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, or Generous Practices of Youth; as rendring them so many ways Serviceable to their Country, and Profitable to themselves.</p>
+            <p>Of incredible Service and Advantage it would be to our Smiths of all sorts, Masons, Bricklayers, Carpenters, Joyners, Carvers, Turners, Embroiderers, Tapestry-Workers, Silversmiths, Jewellers, nay to all our Handicrafts in general.</p>
+            <p>For shew most of these Workmen abovesaid a Draft of what you would have done, their want of Skill in <hi>Drawing</hi> renders it almost useless to them.</p>
+            <p>For Example, Should an Engineer invent a Machin and Draw it in all its Parts, with its Views <hi>per</hi> Front and Sides, the whole in Perspective, a Ground-Plot thereof, with a Scale annex'd thereto, with what Difficulty do they work, and the Projector must be always by or all will be Marr'd; whereas could our Handicrafts and Mechanicks Draw, a Man might send his Work from a Hundred Miles distance, Drawn as a<g ref="char:EOLhyphen"/>bovesaid, and be satisfied it would be perform'd to his Mind and according to his Directions.</p>
+            <p>By what has been said I would not have it thought, that none of our Handicrafts and Mechanicks can Draw, for some do of my own knowledge very well: Which Qualification hath made them the most excellent of all others; for the <hi>Best Drafts-Man</hi> will be the <hi>Best Artist</hi> in what Art soever.</p>
+            <p>The Design of this School is to have a constant Nursery or Breed of Youths proper for Artificers; for as two, three or more, Wise, Rich and Artful Citizens, make it not a Wise, Rich and Artful City or Country, but the general Bent, Genius and Inclination, and the greater part of them so Qualified.</p>
+            <p>For Proof of what hath been said, discourse with the meanest of all our Handicrafts, tho he cannot Draw yet will endeavour to chalk out after his fashion, your Meaning and his; knowing by pure instinct, that all the Rhetorick in the World cannot convince like a Drawing.</p>
+            <p>What an Honour would it not be for our Workmen and Handicrafts, and Satisfaction to the Employer, when he comes to bespeak any thing of them Qualified with Drawing; to see them Sketch out as fast as you speak, with a Pen or Pencil, what you Would have done, and be sure to please you even bef<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re a Stroak be struck therein; and this would prevent an Error which the unskill'd in Drawing often commit, in asking extravagantly too much sometimes and as often too little; by drawing they would compute the Charge to a tittle.</p>
+            <p>If Parents sent their Children to Drawing as customarily as they do to Latin and Writing, it being altogether as useful to them, they would soon find the Advantage themselves and their Children would reap thereby.</p>
+            <p>For a Master would take a Servant Qualified with Drawing, with half the Mony and be a Gainer thereby; for the Boy would come to Work in half the time, and both be assur'd the Master of a Servant for his turn, and the Boy of being a Master of his Calling; and not serve Seven Years as many do, to little or no purpose.</p>
+            <p>Neither would our Handicrafts and Mechanicks alone be advantaged hereby; it is an Accomplishment for Noblemen and Gentlemen, Scholars, all Students in Art or Nature; Generals, Engineers, Mathematicians, Surveyors, Surgeons and an infinity of others.</p>
+            <p>How defective are the best Historical Accounts of Animals, as Birds, Beasts, Fishes, Insects, Plants, Descriptions of Countries, Cities, Castles, Man<g ref="char:EOLhyphen"/>ners, Habits, Customs, <hi>&amp;c.</hi> without Drawings or Sculptures; being little more useful than a Demonstration of <hi>Euclid</hi> would be without a Scheme.</p>
+            <p>The greatest Master of Words cannot describe in the Verbosest manner any Object, as Beast, Bird or Insect (if never seen before) so as to make it be known when seen, which <hi>Drawing</hi> performs infallibly and with few Stroaks.</p>
+            <p>I shall only add, what Veneration and Esteem the Artists of this kind have met with in the World; The Profession hereof being admitted into th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> first Place among the Liberal Arts, and throughout <hi>Greece</hi> taught only to the Children of Noblemen, and forbidden to their Servants and Slaves. Of no less account was it among the <hi>Romans,</hi> since one of the most Noble Families in <hi>Rome,</hi> the <hi>Fabii,</hi> thought themselves much Honour'd by the Surname of <hi>Pictor. Claudius, Titus</hi> the Son of <hi>Vespasian,</hi> the two <hi>Antonines,</hi> and divers other Emperors and Princes were excellent in this Art; as were also in these later times many of the greatest Princes of <hi>Europe; Francis</hi> I. King of <hi>France; Margaret</hi> Queen of <hi>Navarre; Emanuel</hi> Duke of <hi>Savoy,</hi> with many others.</p>
+            <p>To Conclude, Speaking of <hi>France;</hi> The Prodigious height that Nation is arriv'd to in this present Age in most Arts, may be attributed to the Publick Academies and Schools, Erected at the King's own Charge for Drawing, Painting, <hi>&amp;c.</hi> which hath produc'd such plenty of Artists of most kinds.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>This Paper may be had at the School. 1697.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
